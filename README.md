@@ -33,6 +33,9 @@ H4k20me1	Hepg2H4k20me1StdAlnRep1.bam
 ![Hepg2_10_RefSeqTSS_neighborhood](https://user-images.githubusercontent.com/72361668/160193204-1edaf769-1a3e-4b9f-bf64-b1a9205b30d3.png)
 ![transitions_10](https://user-images.githubusercontent.com/72361668/160193219-e78353f8-f78b-4e9e-adae-697140e9c365.png)
 
+<img width="704" alt="1" src="https://user-images.githubusercontent.com/72361668/160300128-093e4e4d-0860-4693-849b-f33a8cfa39aa.png">
+<img width="790" alt="2" src="https://user-images.githubusercontent.com/72361668/160300130-1944d738-c489-41b8-9a80-f79cc5c4119e.png">
+
 
 Классификация состояний:
 
